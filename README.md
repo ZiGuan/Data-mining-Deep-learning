@@ -8,6 +8,7 @@ visualize feature and quantitative relationship. The train.csv file was used for
 2. Neural network
 
 Neural network was under deep learning, machine learning and artificial intelligient. 
+![](Neural.png)
 
 
 
